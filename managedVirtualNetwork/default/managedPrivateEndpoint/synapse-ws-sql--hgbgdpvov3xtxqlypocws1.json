@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--hgbgdpvov3xtxqlypocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d84fdabb-fa3c-499e-9645-b9abd4244014/resourceGroups/RG_edureka/providers/Microsoft.Synapse/workspaces/hgbgdpvov3xtxqlypocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"hgbgdpvov3xtxqlypocws1.63136c80-a925-4c61-84d4-39b3ec0a7691.sql.azuresynapse.net"
+		]
+	}
+}
